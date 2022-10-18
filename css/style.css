@@ -1,0 +1,43 @@
+.img { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} 
+   
+.anybutton {
+    top:65%;
+    left:13%;
+    width:110px;
+    height:40px;
+    position: absolute;
+    z-index: 2;
+    background:white; 
+}
+
+.secbutton {
+    top:65%;
+    left:73%;
+    width:110px;
+    height:40px;
+    position: absolute;
+    z-index: 2;
+    background:white; 
+}
+
+
+.text-block {
+    position: absolute;
+    top: 30%;
+    left: 36%;
+    background-color:transparent;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.responsive
+{
+
+
+}
